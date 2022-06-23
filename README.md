@@ -1,1 +1,3 @@
 # Wildlife-Species-App
+The Wildlife Species Detector is an AI-driven application that can be used to detect and identify a range of wild life organisms that is geared towards the identification of a range of invertebrate species that have been negatively impacted by the 2019 / 20 Black Summer bushfires. The app provides detailed fact sheets for over 70 different species of beetles, bugs, snails and spiders. The AI - driven identification tool is able to detect 14 of these species from user - provided photographs.
+The tool is developed in JavaScript in React Native environment. It has built in MobileNetV2 model to detect target images.
